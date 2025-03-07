@@ -12,4 +12,4 @@ Universidad Nacional Autónoma de México
 
 ## Corre estos cuadernos en binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajaramillomoreno/dinamica_atmosfera/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajaramillomoreno/dinamica_atmosfera/main)
