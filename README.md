@@ -1,5 +1,3 @@
-# dinamica_atmosfera
-Repositorio del Curso de Dinámica de la Atmósfera del Posgrado en Ciencias de la Tierra de la UNAM
 # Dinámica de la Atmósfera
 Cuadernos de Jupyter del curso de Dinámica de la Atmósfera.
 Elaborador por:
